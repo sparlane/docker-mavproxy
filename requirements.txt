@@ -1,1 +1,1 @@
-mavproxy==1.8.62
+mavproxy==1.8.66
