@@ -1,2 +1,2 @@
 future==1.0.0
-mavproxy==1.8.74
+mavproxy==1.8.75
